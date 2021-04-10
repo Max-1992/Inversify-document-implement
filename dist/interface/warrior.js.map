@@ -1,0 +1,1 @@
+{"version":3,"file":"warrior.js","sourceRoot":"","sources":["../../src/interface/warrior.ts"],"names":[],"mappings":"","sourcesContent":["export interface Warrior {\r\n    fight(): string;\r\n    sneak(): string;\r\n}"]}
